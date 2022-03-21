@@ -1,4 +1,4 @@
-#include <emp-tool/emp-tool.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
 #include <boost/program_options.hpp>
 #include <boost/lexical_cast/try_lexical_convert.hpp>
 #include <boost/program_options/value_semantic.hpp>

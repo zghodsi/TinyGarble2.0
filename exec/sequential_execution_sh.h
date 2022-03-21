@@ -1,7 +1,7 @@
 #ifndef SEQUENTIAL_EXECUTION_SH_H__
 #define SEQUENTIAL_EXECUTION_SH_H__
 
-#include <emp-tool/emp-tool.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
 #include "tinygarble/sequential_2pc_exec_sh.h"
 
 string sequential_execution_sh(int party, NetIO* io, string netlist_address, string input_hex_str = "", string init_hex_str = "", int cycles = 1, int repeat = 1, int output_mode = 0, bool report = true, uint64_t dc[4] = (uint64_t*)default_array, double dt[4] = default_array) {

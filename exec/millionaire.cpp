@@ -1,4 +1,4 @@
-#include <emp-tool/emp-tool.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
 #include <boost/program_options.hpp>
 #include <boost/format.hpp>
 #include "tinygarble/program_interface.h"

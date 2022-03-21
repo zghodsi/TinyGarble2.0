@@ -1,7 +1,7 @@
 #ifndef FPRE_H__
 #define FPRE_H__
-#include <emp-tool/emp-tool.h>
-#include <emp-ot/emp-ot.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
+#include <emp-ot-tg/emp-ot/emp-ot.h>
 #include <thread>
 #include "feq.h"
 #include "tinygarble/helper.h"

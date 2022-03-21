@@ -1,7 +1,7 @@
 #ifndef SEQUENTIAL_C2PC_SH_H__
 #define SEQUENTIAL_C2PC_SH_H__
-#include <emp-tool/emp-tool.h>
-#include <emp-ot/emp-ot.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
+#include <emp-ot-tg/emp-ot/emp-ot.h>
 
 //#define PRINT
 

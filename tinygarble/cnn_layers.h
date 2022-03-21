@@ -1,7 +1,7 @@
 #ifndef CNNLAYERS_TG_H 
 #define CNNLAYERS_TG_H
 
-#include <emp-tool/emp-tool.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
 #include "tinygarble/program_interface_sh.h"
 
 class TinyGarbleCNN{

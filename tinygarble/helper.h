@@ -1,6 +1,6 @@
 #ifndef __HELPER
 #define __HELPER
-#include <emp-tool/emp-tool.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
 #include "c2pc_config.h"
 #include <immintrin.h>
 #include <boost/align/align.hpp>

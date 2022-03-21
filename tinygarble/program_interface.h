@@ -6,7 +6,7 @@
 #include <vector>
 #include <numeric>
 #include <string>
-#include <emp-tool/emp-tool.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
 #include "sequential_2pc.h"
 #include "sequential_2pc_exec.h"
 #include "TinyGarble_config.h"

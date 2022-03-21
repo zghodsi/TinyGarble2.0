@@ -1,7 +1,7 @@
 #ifndef SEQUENTIAL_EXECUTION_H__
 #define SEQUENTIAL_EXECUTION_H__
 
-#include <emp-tool/emp-tool.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
 #include <cstdlib>
 #include <fstream>
 #include "tinygarble/sequential_2pc_exec.h"

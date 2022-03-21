@@ -1,6 +1,6 @@
 #ifndef FEQ_H__
 #define FEQ_H__
-#include <emp-tool/emp-tool.h>
+#include <emp-tool-tg/emp-tool/emp-tool.h>
 
 namespace emp {
 class Feq { 
